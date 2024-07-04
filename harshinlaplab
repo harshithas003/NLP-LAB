@@ -1,0 +1,7 @@
+1. Selenium WebDriver
+WebDriver: The core component of Selenium, it provides a programming interface for driving the browser to interact with web elements.
+2. Selenium IDE
+IDE (Integrated Development Environment): A Firefox and Chrome browser extension used for rapid prototyping of test cases.
+3. Selenium Grid
+Grid: A server that allows tests to run on different machines against different browsers simultaneously, enabling parallel testing.
+
